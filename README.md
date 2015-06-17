@@ -10,6 +10,9 @@ You can copy and edit this document as you wish:
 https://docs.google.com/spreadsheets/d/1h9XrsJ6J4id4nTXbRxgDYlt2UkXZzzE3Uuo30QbJMSk/edit#gid=0
 
 References:
+
 http://venturebeat.com/2014/05/04/how-full-stack-entrepreneurs-should-build-their-skill-set/
+
 http://techzingwiki.com/doku.php?id=full-stack_entrepreneur
+
 http://www.businessinsider.com/15-roles-every-startup-needs-filled-2009-3
