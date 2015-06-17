@@ -1,5 +1,4 @@
-# skill-tree
-Skills needed for startups
+# Skills needed for startups
 
 Before, during or between startups there are some skills you need to have to be successful. 
 For each startup these skill sets and their founder variations will differ so you guys have to select the ones you care about (or think that will effect your startup) and focus on improving those skills. Or at least know about your strengths and weaknesses then plan accordingly.
